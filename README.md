@@ -1,4 +1,4 @@
-# Deep-Learning-model-for-Self-Driving-using-Udacity-s-slef-driving-car-simulator
+# Deep-Learning-model-for-Self-Driving-using-Udacity's self driving car simulator
 
 ## Introduction
 
