@@ -9,6 +9,8 @@ Main Libraries: Pytorch, OpenCV, Numpy.
 ## Files
 **self_driving.ipynb** contains the code for model training.
 **Data.zip** contains the data files.
+Data can be found in the following google drive link.
+https://drive.google.com/file/d/1bzazEgZoKHf_qCO7NJFAIXCdoLXT71Fx/view?usp=sharing
 
 ## Data Collection and usage
 
